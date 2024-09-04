@@ -1,5 +1,3 @@
-## UID: 123456789
-
 ## Pipe Up
 
 My program is built the mimic the shell command "|" aka "pipe"
